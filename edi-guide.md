@@ -23,15 +23,15 @@ The vast majority will be within walking distance from the Old Town so I'm sure 
 ## Buildings, architecture, monuments
 ### [Edinburgh Castle](https://maps.app.goo.gl/gcQcgit9peDrBxbU9)
 Hard to miss, a castle sitting on top of a steep, rocky hill in the middle of the city. It's an amazing sight, you can go in and explore it though I personally haven't been inside xD
-### [Sir Walter Scott Monument](https://share.google/HhSHYRo8ItEKcHEyz)
+### [Sir Walter Scott Monument](https://maps.app.goo.gl/SSvs4D3f63992q9o8)
 Hard to miss this one cause it's massive and it's near one of the main streets of the city. If you're into architecture definitely check it out. You can even go inside and up for a few pounds (unless they raised the prices).
 Uninteresting piece of trivia - as I was working in a food truck nearby back in 2014 some dude went up this monument and decided to take the short way down, causing the police to close the whole area nearby for a good few hours lol
 ### [Edinburgh Waverley Station](https://maps.app.goo.gl/rPtzNF3iLo2hTkow8)
 You'll walk over it if you take the North Bridge from Princes St. There's a wee [mall](https://maps.app.goo.gl/h5G6CKrZbt9RG2mq5) attached to it, where I used to see a guy selling his art sometimes. Also, one of the starting scenes of Avengers: Infinity War was shot on this station ;p
-### [Sherlock Holmes Statue](https://share.google/Hgp90HO7T1WmEymG3)
+### [Sherlock Holmes Statue](https://maps.app.goo.gl/B46nis3NJrqnndhA8)
 A statue commemorating the most famous character written by Sir Arthur Conan Doyle. There's also [a pub named after him](https://maps.app.goo.gl/EBBDVNSmJwDd9m7U7) just next to it.
 ### [Greyfriars Bobby Statue](https://maps.app.goo.gl/2Gw3jS35dGuWgNyV7)
-Nearby [National Museum of Scotland](### National Museum of Scotland). The dog whose statue was put there is said to have sat by his owner's grave for 14 years. There's also [a pub named after him](https://maps.app.goo.gl/Vvy64zvbuF4mmDJJ7) just next to it. Obviously.
+Nearby [National Museum of Scotland](#national-museum-of-scotland). The dog whose statue was put there is said to have sat by his owner's grave for 14 years. There's also [a pub named after him](https://maps.app.goo.gl/Vvy64zvbuF4mmDJJ7) just next to it. Obviously.
 ### [Wojtek the Soldier Bear Statue](https://maps.app.goo.gl/848FKVXsUfaiq47V9)
 So apparently during the II WW the soldiers had a Polish bear in their ranks :D 
 ### [The Hub](https://maps.app.goo.gl/rQiwRpsVP3HWNZom9)
@@ -44,26 +44,22 @@ If you're a math nerd, this is the birthplace of John Napier, the inventor of lo
 In case you're looking to switch jobs ;p
 
 ## Museums and Galleries
-### National Galleries of Scotland
-https://share.google/fnI1kUNWREjtMytiC
+### [National Galleries of Scotland](https://maps.app.goo.gl/B46nis3NJrqnndhA8)
 For art lovers, I'm not one but I'm guessing you might like it :D
-### The Royal Scottish Academy of Art & Architecture
-https://maps.app.goo.gl/sciWqK26MybHdX488?g_st=ac
+### [The Royal Scottish Academy of Art & Architecture](https://maps.app.goo.gl/jgrZ1KJkP6xEF3Lc9)
 Just next to [National Galleries of Scotland](### National Galleries of Scotland) so you might as well pop in to both.
-### The Writers' Museum
-https://share.google/T4SgqJd3QSBiSglHd
-A small museum placed in an old tenement, you can see some works and personal belongings of some of the Scottish writers, a stone's throw from [Edinburgh Castle](### Edinburgh Castle).
-### National Museum of Scotland
-https://share.google/u4061vI8CmEt0PqBX
+### [The Writers' Museum](https://maps.app.goo.gl/NprzhZH6Y9zeYLYP7)
+A small museum placed in an old tenement, you can see some works and personal belongings of some of the Scottish writers, a stone's throw from [Edinburgh Castle](#edinburgh-castle).
+### [National Museum of Scotland](https://maps.app.goo.gl/2YVdaAViQcxJcU116)
 Quite a massive museum imo. Free entry, definitely worth taking a look.
 
 ## Nature and chill
 ### [Princes Street Gardens](https://maps.app.goo.gl/uFDVivB1YNwvAPoT9)
-A neat little park along the [Princes St](### Princes St.), worth checking out as you're walking around
+A neat little park along the [Princes St.](#princes-St\.), worth checking out as you're walking around
 ### [Flower Clock](https://maps.app.goo.gl/eEebeH51YtHMKkFk9)
 A large analogue clock made of flowers, apparently since 1903.
 ### [Calton Hill](https://maps.app.goo.gl/ADzzRGDLNp4SobhG7)
-A small hill just at the end of [Princes St.][### Princes St.]. Offers a nice little view, there's a cafe and a few monuments on top
+A small hill just at the end of [Princes St.][#princes-st\.]. Offers a nice little view, there's a cafe and a few monuments on top
 ### [Arthur's Seat](https://maps.app.goo.gl/9SkP7xZFgxTRY749A)
 Much bigger hill, visible from almost everywhere else in the city as long as you're not tucked in between buildings. Amazing view of the whole city and further, very windy on top, takes a couple hours to get to the peak.
 
@@ -80,18 +76,18 @@ You can get in and out of there during a low tide, when the path is above water.
 ### [Silverknowes Beach](https://maps.app.goo.gl/FGKNoQuBiQHMsJRr6)
 When it's warm there's tons of people around, sometimes they throw bonfire parties, very open to strangers.
 ### [The Meadows](https://maps.app.goo.gl/QEtn6Vt3pxDuF3qq6)
-Big-ass park, relatively close to the [National Museum of Scotland](### National Museum of Scotland). Usually in a good weather there'll be tons of people chilling, bbq-ing, and having fun.
+Big-ass park, relatively close to the [National Museum of Scotland](#national-museum-of-scotland). Usually in a good weather there'll be tons of people chilling, bbq-ing, and having fun.
 ### [Pentland Hills](https://maps.app.goo.gl/JC8gQ9B9CWHtHqxQ8)
 Bottom of the list since it'd probably take you a whole day to travel and hike and I know you don't have much time. Cool views tho.
 
 ## Food & Drinks
 For some bizzare reason Edinburgh (or Scotland in general?) is known for their heart attack inducing Deep Fried Mars Bars xD most Fish and Chips or Kebab places will advertise them. Do give it a go, it's surprisingly good :D
 ### [Miller & Carter Steakhouse](https://maps.app.goo.gl/LKotvdhby18RWdRr5?g_st=ac)
-Just next to [Rose St.][### Rose St.]. Best steak I've ever had. Pricey but definitely worth it! Do ring the bell at the counter on your way out :D
+Just next to [Rose St.][#rose-st\.]. Best steak I've ever had. Pricey but definitely worth it! Do ring the bell at the counter on your way out :D
 ### [The Sheep Heid Inn](https://maps.app.goo.gl/FSaBoEi2JKcVgCNz9)
-Near [Arthur's Seat](### Arthur's Seat), possibly the oldest known pub in Edinburgh (at least there's been recordings of ***a pub*** in that place dating back to 14th century). Queen Elisabeth II ate there once.
+Near [Arthur's Seat](#arthur\'s-seat), possibly the oldest known pub in Edinburgh (at least there's been recordings of ***a pub*** in that place dating back to 14th century). Queen Elisabeth II ate there once.
 ### [Brass Monkey](https://maps.app.goo.gl/gAgTyvHVxWb2N4wZ9?g_st=ac)
-Found on [Leith Walk](### Leith Walk). Named after a saying "Cold enough to freeze the balls off a brass monkey". Nice atmosphere, used to be one of my favourite pubs when I lived near it
+Found on [Leith Walk](#leith-walk). Named after a saying "Cold enough to freeze the balls off a brass monkey". Nice atmosphere, used to be one of my favourite pubs when I lived near it
 ### [The Royal Yacht Britannia](https://maps.app.goo.gl/isHdKuGL1MBqjjzj6)
 Haven't been there myself but it looks like a cool vibe. Used by the royal family back in the day, now serves as a restaurant and a tourist attraction.
 ### [Wagamama](https://maps.app.goo.gl/JrYSTfPYy5mfN5bP6)
