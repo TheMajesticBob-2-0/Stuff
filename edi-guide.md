@@ -47,7 +47,7 @@ In case you're looking to switch jobs ;p
 ### [National Galleries of Scotland](https://maps.app.goo.gl/B46nis3NJrqnndhA8)
 For art lovers, I'm not one but I'm guessing you might like it :D
 ### [The Royal Scottish Academy of Art & Architecture](https://maps.app.goo.gl/jgrZ1KJkP6xEF3Lc9)
-Just next to [National Galleries of Scotland](### National Galleries of Scotland) so you might as well pop in to both.
+Just next to [National Galleries of Scotland](#national-galleries-of-scotland) so you might as well pop in to both.
 ### [The Writers' Museum](https://maps.app.goo.gl/NprzhZH6Y9zeYLYP7)
 A small museum placed in an old tenement, you can see some works and personal belongings of some of the Scottish writers, a stone's throw from [Edinburgh Castle](#edinburgh-castle).
 ### [National Museum of Scotland](https://maps.app.goo.gl/2YVdaAViQcxJcU116)
@@ -55,11 +55,11 @@ Quite a massive museum imo. Free entry, definitely worth taking a look.
 
 ## Nature and chill
 ### [Princes Street Gardens](https://maps.app.goo.gl/uFDVivB1YNwvAPoT9)
-A neat little park along the [Princes St.](#princes-St\.), worth checking out as you're walking around
+A neat little park along the [Princes St.](#princes-st), worth checking out as you're walking around
 ### [Flower Clock](https://maps.app.goo.gl/eEebeH51YtHMKkFk9)
 A large analogue clock made of flowers, apparently since 1903.
 ### [Calton Hill](https://maps.app.goo.gl/ADzzRGDLNp4SobhG7)
-A small hill just at the end of [Princes St.][#princes-st\.]. Offers a nice little view, there's a cafe and a few monuments on top
+A small hill just at the end of [Princes St.][#princes-st]. Offers a nice little view, there's a cafe and a few monuments on top
 ### [Arthur's Seat](https://maps.app.goo.gl/9SkP7xZFgxTRY749A)
 Much bigger hill, visible from almost everywhere else in the city as long as you're not tucked in between buildings. Amazing view of the whole city and further, very windy on top, takes a couple hours to get to the peak.
 
@@ -83,9 +83,9 @@ Bottom of the list since it'd probably take you a whole day to travel and hike a
 ## Food & Drinks
 For some bizzare reason Edinburgh (or Scotland in general?) is known for their heart attack inducing Deep Fried Mars Bars xD most Fish and Chips or Kebab places will advertise them. Do give it a go, it's surprisingly good :D
 ### [Miller & Carter Steakhouse](https://maps.app.goo.gl/LKotvdhby18RWdRr5?g_st=ac)
-Just next to [Rose St.][#rose-st\.]. Best steak I've ever had. Pricey but definitely worth it! Do ring the bell at the counter on your way out :D
+Just next to [Rose St.][#rose-street]. Best steak I've ever had. Pricey but definitely worth it! Do ring the bell at the counter on your way out :D
 ### [The Sheep Heid Inn](https://maps.app.goo.gl/FSaBoEi2JKcVgCNz9)
-Near [Arthur's Seat](#arthur\'s-seat), possibly the oldest known pub in Edinburgh (at least there's been recordings of ***a pub*** in that place dating back to 14th century). Queen Elisabeth II ate there once.
+Near [Arthur's Seat](#arthurs-seat), possibly the oldest known pub in Edinburgh (at least there's been recordings of ***a pub*** in that place dating back to 14th century). Queen Elisabeth II ate there once.
 ### [Brass Monkey](https://maps.app.goo.gl/gAgTyvHVxWb2N4wZ9?g_st=ac)
 Found on [Leith Walk](#leith-walk). Named after a saying "Cold enough to freeze the balls off a brass monkey". Nice atmosphere, used to be one of my favourite pubs when I lived near it
 ### [The Royal Yacht Britannia](https://maps.app.goo.gl/isHdKuGL1MBqjjzj6)
